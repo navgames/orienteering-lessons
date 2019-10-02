@@ -9,3 +9,9 @@ To **bold**, use two asterisks.
 Here is an image with a caption:
 
 ![Marmalade and Tangerine](images/marm-and-tangie.jpg)
+
+{type: video, poster: "https://i9.ytimg.com/vi/pVtazzxpJKY/mq2.jpg?sqp=CJHF0uwF&rs=AOn4CLDiZ5_Eot6yNQpaXOT9H2HR6MzMyg"}![Setting out controls](https://www.youtube.com/watch?v=pVtazzxpJKY)
+
+And here is the embed code:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/pVtazzxpJKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
