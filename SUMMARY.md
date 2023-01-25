@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Teaching Orienteering](README.md)
+  * [Acknowledgements](teaching-orienteering/acknowledgements.md)
 * [Progressions](progressions/README.md)
   * [Level 1](progressions/level-1/README.md)
     * [Lesson 1](progressions/level-1/lesson-1.md)
@@ -11,6 +12,7 @@
     * [4 - Picture the Space](progressions/level-2/4-picture-the-space.md)
     * [5 - Map Symbols](progressions/level-2/5-map-symbols.md)
     * [6 - Orienteering Courses](progressions/level-2/6-orienteering-courses.md)
+    * [A - Indoor Orienteering](progressions/level-2/a-indoor-orienteering.md)
 * [Activities](activities/README.md)
   * [Boundary Run](activities/boundary-run.md)
   * [Gathering on a Signal](activities/gathering-on-a-signal.md)
@@ -21,4 +23,5 @@
   * [Fix the Map](activities/fix-the-map.md)
   * [Find the Cone](activities/find-the-cone.md)
   * [Pattern Orienteering](activities/pattern-orienteering.md)
+  * [Basketball Court Orienteering](activities/basketball-court-orienteering.md)
 * [Resources](resources.md)
