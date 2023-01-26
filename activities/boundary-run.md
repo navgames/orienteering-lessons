@@ -10,9 +10,9 @@ _Sources:_ [_Boundary Run doc in Curriculum Drive_](https://docs.google.com/docu
 
 ## Summary
 
-Participants run along the boundary of the space. This activity develops comfort and familiarity with the playable area, and serves as a good warm-up. The participants should remain in single file behind the leader during the run. Be aware of varying physical abilities among the group, and make sure to adjust the speed of the run accordingly. On easy terrain, switch between different locomotor patterns (galloping, skipping, etc.) to enhance the activity.
+Participants run along the boundary of the space. This activity develops comfort and familiarity with the playable area, and serves as a good warm-up. The participants should remain in single file behind the leader during the run; this is a good opportunity to hold students responsible for following the instructions. Be aware of varying physical abilities among the group, and make sure to adjust the speed of the run accordingly. On easy terrain, switch between different movement patterns (galloping, skipping, etc.) to develop locomotor skills.
 
-This activity is important for the younger elementary ages, to learn basic rules and behavior. While older students can usually understand the boundaries of the space with verbal descriptions, doing the boundary run is a good warm-up, reinforces following instructions, and provides a physical experience of the boundary.&#x20;
+This activity is important for the younger elementary ages, to learn basic rules and behavior. While older students can usually understand the boundaries of the space with verbal descriptions, the boundary run is a good warm-up, reinforces following instructions, and provides a physical experience of the boundary.&#x20;
 
 ## Preparation
 
@@ -65,9 +65,9 @@ If participants are not able to run, use other forms of movement (walking, movin
 
 If participants are not able to physically move around the boundary, they can watch someone else go around the boundary and then describe it. Alternatively, the teacher can describe the boundary, and then the participant can direct someone else to move around the boundary using spatial vocabulary.
 
-### Variations
+## Variations
 
-#### Hot or Cold Secret Boundary Game
+### Hot or Cold Secret Boundary Game
 
 To set up for this activity, place cones in a regular pattern. We recommend using a rectangular or triangular grid.
 
@@ -79,7 +79,7 @@ To set up for this activity, place cones in a regular pattern. We recommend usin
 * After doing that a few times, increase the difficulty by having the participant choose two secret cones. When the partner thinks they know BOTH cones, they say they are ready to guess and indicate their guess by running back and forth between the two cones. Repeat steps 3-5 until the pair has mastered the activity. The number of cones can be increased to three, so that the participants are guessing a triangle of cones.
 * As a final test, ask the pairs to play the game one more time, and to sit together in the middle of the triangle once it has been successfully guessed. (Or, if they are not up to three cones, then sit down near a secret cone that was successfully guessed.) This will help identify participants who need more help with the activity, and allow some participants to become coaches for other pairs.
 
-#### Fortnite Tag
+### Fortnite Tag
 
 To set up for this activity, you will need to place cones to form a boundary, or place different colored cones in a series of concentric circles, or use distinct landmarks to form a series of progressively smaller play areas.
 
