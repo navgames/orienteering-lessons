@@ -1,3 +1,7 @@
+---
+description: Explore the space to find checkpoints.
+---
+
 # Explore and Find
 
 ## Testing editing in github.
