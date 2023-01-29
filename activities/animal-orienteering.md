@@ -1,14 +1,12 @@
 ---
-description: >-
-  Participants use a clue sheet to find checkpoints in order, and get feedback
-  from the timing system.
+description: Participants use a clue sheet to find checkpoints in order
 ---
 
 # Animal Orienteering
 
 > "To do an orienteering course, you find checkpoints in order using a clue sheet"
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Time and Space</td><td></td><td></td></tr><tr><td>Materials</td><td></td><td></td></tr><tr><td>Vocabulary</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Time and Space</strong></td><td>15-30 minutes</td><td>any space</td></tr><tr><td><strong>Materials</strong></td><td>Timing cards, clue sheets, animal checkpoints</td><td></td></tr><tr><td><strong>Vocabulary</strong></td><td><a href="../resources/vocabulary.md">Clue sheet</a>, checkpoint, course, orienteering, spatial memory</td><td></td></tr></tbody></table>
 
 ## Summary
 

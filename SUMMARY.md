@@ -30,7 +30,7 @@
   * [Find the Cone](activities/find-the-cone.md)
   * [Group Memory](activities/group-memory.md)
   * [Pattern Orienteering](activities/pattern-orienteering.md)
-* [Resources](resources/README.md)
+* [Resources](resources.md)
   * [OUSA Orienteering Development Model](resources/ousa-orienteering-development-model.md)
   * [SHAPE America Standards](resources/shape-america-standards.md)
   * [STEM Standards](resources/stem-standards.md)
