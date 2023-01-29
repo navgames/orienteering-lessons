@@ -6,7 +6,7 @@ description: Participants use a clue sheet to find checkpoints in order
 
 > "To do an orienteering course, you find checkpoints in order using a clue sheet"
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Time and Space</strong></td><td>15-30 minutes</td><td>any space</td></tr><tr><td><strong>Materials</strong></td><td>Timing cards, clue sheets, animal checkpoints</td><td></td></tr><tr><td><strong>Vocabulary</strong></td><td><a href="../resources/vocabulary.md">Clue sheet</a>, checkpoint, course, orienteering, spatial memory</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Time and Space</strong></td><td>15-30 minutes</td><td>any space</td></tr><tr><td><strong>Materials</strong></td><td>Timing cards, clue sheets, animal checkpoints</td><td></td></tr><tr><td><strong>Vocabulary</strong></td><td><a href="../resources/vocabulary.md#clue-sheet">Clue sheet</a>, <a href="../resources/vocabulary.md#checkpoint">checkpoint</a>, <a href="../resources/vocabulary.md#course">course</a>, <a href="../resources/vocabulary.md#orienteering">orienteering</a>, <a href="../resources/vocabulary.md#spatial-memory">spatial memory</a></td><td></td></tr></tbody></table>
 
 ## Summary
 
