@@ -18,13 +18,20 @@ Participants search for pictures of animals scattered throughout the space. This
 {% tab title="O Goals" %}
 Orienteering involves finding checkpoints in sequence, and a firm understanding of where things are relative to one another in the surrounding area
 
-* Observation&#x20;
-* Spatial Memory&#x20;
-* Speed&#x20;
-* Teamwork
+- Observe the environment and find checkpoints
+- Use a clue sheet (animal strip) to complete an orienteering course. 
+- Check codes (animal pictures) at each checkpoint. 
+- Spatial memory: Improve speed by remembering checkpoint locations. 
+- (If working with a partner): teamwork
+
 {% endtab %}
 
 {% tab title="Standards" %}
+
+SHAPE America:
+
+- Demonstrate locomotor skills. (S1.E1, S1.E2) 
+- Participate, learn, follow rules. (S3.E2, S4.E1, S4.E3, S4.E5)
 
 {% endtab %}
 
