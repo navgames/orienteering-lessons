@@ -10,9 +10,44 @@ description: Participants use a clue sheet to find checkpoints in order
 
 ## Summary
 
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Materials      | Timing cards, clue sheets, small cones (2-3 different colors), large (animal) cones, timing equipment                                                                                                                                                                                                                                                                                                                                                    |
-| Time and Space | 30-60min; any space                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Goals          | <p>Participants practice individual tasks and become responsible for completing goals with limited direction from teachers.  </p><p>Participants respect personal space while doing an activity.</p><p>Participants can complete an orienteering course using a clue sheet, in the correct order.</p><p>Participants remember the location of specific checkpoints.</p><p>Participants take personal responsibility for the timing cards.</p><p><br></p> |
-| Video          | [https://youtu.be/HpDzuzA03X0](https://youtu.be/HpDzuzA03X0)                                                                                                                                                                                                                                                                                                                                                                                             |
+{% tabs %}
+{% tab title="Summary" %}
+
+{% endtab %}
+
+{% tab title="O Goals" %}
+
+{% endtab %}
+
+{% tab title="Standards" %}
+List of specific outcomes from SHAPE America, OUSA ODM, STEM standards
+{% endtab %}
+
+{% tab title="Target Audiences" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% embed url="https://youtu.be/HpDzuzA03X0" %}
+
+## Delivery
+
+### Set-up and Clean-up
+
+Provide diagrams, time needed, and how you can have the participants help with this (eg in delivering to a class where the teacher does not have extra time to set up)
+
+### Step-by-step
+
+### Sample script
+
+### Assessment
+
+### Reflection
+
+### Reaching all learners
+
+## Variations
+
+## Supporting Information
+
+This may include mapping to learning standards, tags, maps and other materials
