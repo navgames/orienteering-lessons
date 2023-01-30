@@ -14,11 +14,19 @@ Also known as "control descriptions". A list of the checkpoint codes. In animal-
 
 #### Gathering signal
 
+#### Landmark
+
+A distinct object or location in the space
+
 #### Map
+
+A picture or image used to represent the environment
 
 #### Mental map
 
 #### Orient the map
+
+Turn the map to match up with reality.
 
 #### Orienteering
 
@@ -28,11 +36,15 @@ Also known as "control descriptions". A list of the checkpoint codes. In animal-
 
 #### Route choice
 
+A path you can use to get from one location to another.
+
 #### Spatial memory
 
 The ability to remember where things are in space
 
 #### Spatial relationship words
+
+Where something is based on the observer and/or other features in the space. Relationship words include "next to", "beyond", "between", "left", "right", "behind".
 
 #### Symbol
 
