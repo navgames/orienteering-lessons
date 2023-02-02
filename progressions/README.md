@@ -1,5 +1,11 @@
 # Progressions
 
+## Note to the NG curriculum team
+
+It would be good to have really solid "tests" which test your orienteering abilities. Want the whole class to be able to achieve these. Things like doing animal-O course successfully.&#x20;
+
+I anticipate having a bunch of levels, and a class might "test out" of earlier levels. In some ways Level 2 is like a faster Level 1.
+
 ## SHAPE America Standards
 
 Note that we may want to add obstacle course and tag games more directly into the unit to address some of these standards.
