@@ -33,6 +33,7 @@ description: Explore within a boundary to find checkpoints
 
 {% tab title="Reflection" %}
 * How many animals did you find? Which animal was the hardest to find?
+* Did you stay within the boundary? How did you remember to do so?
 * How fast did you go? How do you feel?
 * When you played the Animal Relay, how do you check you are at the right place? (by matching the animal)
 * Do you remember where the animals are?
