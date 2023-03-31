@@ -30,9 +30,21 @@
   * [Find the Cone](activities/find-the-cone.md)
   * [Group Memory](activities/group-memory.md)
   * [Pattern Orienteering](activities/pattern-orienteering.md)
+* [Materials](materials.md)
 * [Resources](resources.md)
   * [OUSA Orienteering Development Model](resources/ousa-orienteering-development-model.md)
   * [SHAPE America Standards](resources/shape-america-standards.md)
   * [STEM Standards](resources/stem-standards.md)
   * [Vocabulary](resources/vocabulary.md)
-  * [Materials](resources/materials.md)
+
+## School-Specific Materials
+
+* [Brookline Public Schools](school-specific-materials/brookline-public-schools/README.md)
+  * [Tailored Lesson Plans](school-specific-materials/brookline-public-schools/tailored-lesson-plans/README.md)
+    * [Explore](school-specific-materials/brookline-public-schools/tailored-lesson-plans/1-explore.md)
+    * [Copy of 2 - Clue Sheets](school-specific-materials/brookline-public-schools/tailored-lesson-plans/2-clue-sheets.md)
+    * [Copy of 3 - Patterns](school-specific-materials/brookline-public-schools/tailored-lesson-plans/3-patterns.md)
+    * [Copy of 4 - Picture the Space](school-specific-materials/brookline-public-schools/tailored-lesson-plans/4-picture-the-space.md)
+    * [Copy of 5 - Map Symbols](school-specific-materials/brookline-public-schools/tailored-lesson-plans/5-map-symbols.md)
+    * [Copy of 6 - Orienteering Courses](school-specific-materials/brookline-public-schools/tailored-lesson-plans/6-orienteering-courses.md)
+    * [Copy of A - Indoor Orienteering](school-specific-materials/brookline-public-schools/tailored-lesson-plans/a-indoor-orienteering.md)
