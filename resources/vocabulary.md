@@ -42,7 +42,7 @@ Turn the map to match up with reality.
 
 #### Orienteering
 
-A timed sport like cross-country running in which you visit checkpoints shown on a map.
+A timed sport like cross-country running in which you visit checkpoints shown on a map. Orienteering's rules and mapping standards are set by the International Orienteering Federation. National and international championships are run by national and international governing bodies.
 
 #### Pattern map
 
